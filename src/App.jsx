@@ -8,7 +8,7 @@ function App() {
   return (
     <Layout>
       <Hero />
-      <div className="container">
+      <div id="tools" className="container">
         {toolsData.map((category) => (
           <CategorySection
             key={category.category}

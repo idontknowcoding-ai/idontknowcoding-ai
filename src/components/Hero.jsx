@@ -16,6 +16,9 @@ const Hero = () => {
                             The curated directory of the best no-code tools for founders, creators, and dreamers.
                             Stop coding, start building.
                         </p>
+                        <a href="#tools" className={styles.ctaButton}>
+                            Explore AI Tools ↓
+                        </a>
                     </div>
                     <div className={styles.videoSide}>
                         <div className={styles.videoWrapper}>
