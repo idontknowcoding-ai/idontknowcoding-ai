@@ -1,8 +1,20 @@
 export const toolsData = [
     {
-        category: "AI App Generators (Text-to-App)",
-        description: "Describe your idea and generate a full app instantly.",
+        category: "AI App & Web Builders",
+        description: "Build full web apps and websites using AI prompts.",
         tools: [
+            {
+                name: "Lovable",
+                description: "GPT-Engineer powered full-stack web app builder.",
+                url: "https://lovable.dev",
+                icon: "❤️"
+            },
+            {
+                name: "WeWeb",
+                description: "Build scalable web apps with AI-assisted design and logic.",
+                url: "https://weweb.io",
+                icon: "🕸️"
+            },
             {
                 name: "FlutterFlow",
                 description: "Generate native mobile app UIs and logic from text prompts.",
