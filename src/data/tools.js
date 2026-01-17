@@ -1,5 +1,35 @@
 export const toolsData = [
     {
+        category: "AI App Generators (Text-to-App)",
+        description: "Describe your idea and generate a full app instantly.",
+        tools: [
+            {
+                name: "FlutterFlow",
+                description: "Generate native mobile app UIs and logic from text prompts.",
+                url: "https://flutterflow.io",
+                icon: "📱"
+            },
+            {
+                name: "Softr AI",
+                description: "Generate client portals and internal tools just by describing them.",
+                url: "https://softr.io",
+                icon: "🧱"
+            },
+            {
+                name: "Glide",
+                description: "Create phone and tablet apps from data or text descriptions.",
+                url: "https://glideapps.com",
+                icon: "📲"
+            },
+            {
+                name: "Bubble",
+                description: "Powerful platform with AI to build complex web apps like Uber.",
+                url: "https://bubble.io",
+                icon: "🫧"
+            }
+        ]
+    },
+    {
         category: "Website Builders",
         description: "Create stunning websites without writing code.",
         tools: [
