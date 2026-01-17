@@ -20,8 +20,8 @@ const Hero = () => {
                     <div className={styles.videoSide}>
                         <div className={styles.videoWrapper}>
                             <iframe
-                                src="https://www.youtube.com/embed/iZ78G3BhDyc"
-                                title="FlutterFlow Tutorial"
+                                src="https://www.youtube.com/embed/CfwNxDEXe6I"
+                                title="Master Lovable AI in 30 Minutes (Beginner Tutorial)"
                                 frameBorder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                                 referrerPolicy="strict-origin-when-cross-origin"
