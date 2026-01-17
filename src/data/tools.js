@@ -1,7 +1,7 @@
 export const toolsData = [
     {
         category: "AI Powered Mobile App Builders",
-        description: "Build native mobile apps visually.",
+        description: "Build native mobile apps visually with no code.",
         tools: [
             {
                 name: "FlutterFlow",
