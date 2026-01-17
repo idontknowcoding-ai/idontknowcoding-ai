@@ -1,5 +1,29 @@
 export const toolsData = [
     {
+        category: "AI Powered Mobile App Builders",
+        description: "Build native mobile apps visually.",
+        tools: [
+            {
+                name: "FlutterFlow",
+                description: "Build beautiful native apps in record time.",
+                url: "https://flutterflow.io",
+                icon: "📱"
+            },
+            {
+                name: "Bubble",
+                description: "Full-stack apps with complex logic.",
+                url: "https://bubble.io",
+                icon: "🫧"
+            },
+            {
+                name: "Adalo",
+                description: "Turn your concepts into apps.",
+                url: "https://adalo.com",
+                icon: "📲"
+            }
+        ]
+    },
+    {
         category: "AI App & Web Builders",
         description: "Build full web apps and websites using AI prompts.",
         tools: [
@@ -119,30 +143,7 @@ export const toolsData = [
             }
         ]
     },
-    {
-        category: "Mobile Apps",
-        description: "Build native mobile apps visually.",
-        tools: [
-            {
-                name: "FlutterFlow",
-                description: "Build beautiful native apps in record time.",
-                url: "https://flutterflow.io",
-                icon: "📱"
-            },
-            {
-                name: "Bubble",
-                description: "Full-stack apps with complex logic.",
-                url: "https://bubble.io",
-                icon: "🫧"
-            },
-            {
-                name: "Adalo",
-                description: "Turn your concepts into apps.",
-                url: "https://adalo.com",
-                icon: "📲"
-            }
-        ]
-    },
+
     {
         category: "Forms & Surveys",
         description: "Collect data with style.",
